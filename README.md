@@ -444,7 +444,7 @@
 - [reagento/dataclass-factory](https://github.com/reagento/dataclass-factory) - Modern way to convert python dataclasses or other objects to and from more common types like dicts or json-like structures
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [tammoippen/geopip](https://github.com/tammoippen/geopip) - Reverse geocode a lng/lat coordinate within a geojson `FeatureCollection` and return information about the containing country (polygon).
-- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
+- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [zhebrak/raftos](https://github.com/zhebrak/raftos) - Asynchronous replication framework for distributed Python projects
