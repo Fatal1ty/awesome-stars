@@ -1036,7 +1036,7 @@
 - [llSourcell/Learn_Machine_Learning_in_3_Months](https://github.com/llSourcell/Learn_Machine_Learning_in_3_Months) - This is the code for "Learn Machine Learning in 3 Months" by Siraj Raval on Youtube
 - [tammoippen/geopip](https://github.com/tammoippen/geopip) - Reverse geocode a lng/lat coordinate within a geojson `FeatureCollection` and return information about the containing country (polygon).
 - [movermeyer/backports.datetime_fromisoformat](https://github.com/movermeyer/backports.datetime_fromisoformat) - A backport of Python 3.11's `datetime.fromisoformat` methods to earlier versions of Python
-- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of python
+- [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [beeftornado/homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies
 - [gusutabopb/aioinflux](https://github.com/gusutabopb/aioinflux) - Asynchronous Python client for InfluxDB
 - [ModusCreateOrg/slow](https://github.com/ModusCreateOrg/slow) - slow down a Linux network device to lower speeds (T1, 3G, 28.8k modem, etc)
