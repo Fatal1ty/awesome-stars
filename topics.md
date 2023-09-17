@@ -358,7 +358,7 @@
 
 ## cryptocurrency 
 
-- [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage optimized to receive ZERO-FEE donations & tips
+- [remjx/coindrop](https://github.com/remjx/coindrop) - Create a custom webpage for zero-fee payments/donations/tips
 
 ## csharp 
 
