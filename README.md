@@ -251,6 +251,7 @@
 
 ## Python 
 
+- [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms with minimal configuration.
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
