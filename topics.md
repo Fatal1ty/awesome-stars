@@ -16,7 +16,6 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
-- [backend](#backend)
 - [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
@@ -228,10 +227,6 @@
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [herrbischoff/awesome-macos-command-line](https://github.com/herrbischoff/awesome-macos-command-line) - Use your macOS terminal shell to do awesome things.
-
-## backend 
-
-- [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
 
 ## bash 
 
