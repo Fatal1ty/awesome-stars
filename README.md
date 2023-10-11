@@ -314,7 +314,7 @@
 - [VeNoMouS/cloudscraper](https://github.com/VeNoMouS/cloudscraper) - A Python module to bypass Cloudflare's anti-bot page.
 - [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real-time throughput, ETA, and very cool animations!
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
-- [Textualize/textual](https://github.com/Textualize/textual) - Textual is a Rapid Application Development framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and (coming soon) a web browser!
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [cpcloud/protoletariat](https://github.com/cpcloud/protoletariat) - Protocol Buffers for the rest of us
 - [dry-python/classes](https://github.com/dry-python/classes) - Smart, pythonic, ad-hoc, typed polymorphism for Python
 - [zanellia/prometeo](https://github.com/zanellia/prometeo) - An experimental Python-to-C transpiler and domain specific language for embedded high-performance computing
