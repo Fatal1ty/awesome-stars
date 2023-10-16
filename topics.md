@@ -292,7 +292,7 @@
 
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
 - [bibendi/dip](https://github.com/bibendi/dip) - Development-environment CLI program providing the native-like interaction with a Dockerized application.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -620,7 +620,7 @@
 
 ## graphql 
 
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [tartiflette/tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio
 
@@ -635,7 +635,7 @@
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - A High-Performance, Community-Driven, and Innovator Friendly Web Framework with a Rust runtime.
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
@@ -963,6 +963,7 @@
 
 ## others 
 
+- [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [patrick91/links-demo](https://github.com/patrick91/links-demo) - Sample package for testing PyPI links.
 - [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
@@ -1627,7 +1628,7 @@
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
-- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Guarantee flawless API functionality with thorough, high-quality test scenarios generated from your API specification.
+- [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Automate your API Testing: catch crashes, validate specs, and save time
 - [Shopify/toxiproxy](https://github.com/Shopify/toxiproxy) - :alarm_clock: :fire: A TCP proxy to simulate network and system conditions for chaos and resiliency testing
 - [taverntesting/tavern](https://github.com/taverntesting/tavern) - A command-line tool and Python library and Pytest plugin for automated testing of RESTful APIs, with a simple, concise and flexible YAML-based syntax
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
