@@ -1178,6 +1178,7 @@
 
 ## python 
 
+- [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications.
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms with minimal configuration.
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
@@ -1473,6 +1474,7 @@
 
 ## rust 
 
+- [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
 - [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
 - [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID
