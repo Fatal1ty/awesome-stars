@@ -653,7 +653,7 @@
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Скриптовый язык программирования для гопников и реальных пацанов
+- [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Joke programming language for 'gopniks' in Russia. Back from 2016!
 
 ## Vala 
 
