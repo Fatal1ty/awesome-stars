@@ -743,7 +743,7 @@
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
-- [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Скриптовый язык программирования для гопников и реальных пацанов
+- [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Joke programming language for 'gopniks' in Russia. Back from 2016!
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 
@@ -795,7 +795,7 @@
 
 ## language 
 
-- [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Скриптовый язык программирования для гопников и реальных пацанов
+- [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Joke programming language for 'gopniks' in Russia. Back from 2016!
 
 ## latex 
 
