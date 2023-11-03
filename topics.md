@@ -108,6 +108,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [parsing](#parsing)
+- [pentesting](#pentesting)
 - [pixel-art](#pixel-art)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
@@ -762,6 +763,7 @@
 
 ## json 
 
+- [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson) - Python bindings for the simdjson project.
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library on top of dataclasses
 - [TeskaLabs/cysimdjson](https://github.com/TeskaLabs/cysimdjson) - Very fast Python JSON parsing library
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
@@ -1155,6 +1157,10 @@
 
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 
+## pentesting 
+
+- [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+
 ## pixel-art 
 
 - [gelstudios/gitfiti](https://github.com/gelstudios/gitfiti) - abusing github commit history for the lulz
@@ -1187,6 +1193,7 @@
 
 ## python 
 
+- [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson) - Python bindings for the simdjson project.
 - [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications.
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms with minimal configuration.
