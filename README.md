@@ -253,6 +253,7 @@
 
 ## Python 
 
+- [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson) - Python bindings for the simdjson project.
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a toolkit for creating modular data visualization applications.
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
