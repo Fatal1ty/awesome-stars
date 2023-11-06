@@ -222,6 +222,7 @@
 
 ## Others 
 
+- [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments
 - [stamparm/ipsum](https://github.com/stamparm/ipsum) - Daily feed of bad IPs (with blacklist hit scores)
 - [Twipped/InterviewThis](https://github.com/Twipped/InterviewThis) - An open source list of developer questions to ask prospective employers
 - [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions
