@@ -973,6 +973,7 @@
 
 ## others 
 
+- [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
