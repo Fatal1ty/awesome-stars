@@ -137,6 +137,7 @@
 - [serverless](#serverless)
 - [shell](#shell)
 - [sql](#sql)
+- [sqlite](#sqlite)
 - [statistics](#statistics)
 - [sublime-text](#sublime-text)
 - [swift](#swift)
@@ -977,6 +978,7 @@
 
 ## others 
 
+- [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [FiniteLooper/recruiting-hell](https://github.com/FiniteLooper/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
@@ -1584,6 +1586,15 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially us
+
+## sqlite 
+
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
+- [thombashi/pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [tortoise/tortoise-orm](https://github.com/tortoise/tortoise-orm) - Familiar asyncio ORM for python, built with relations in mind
+- [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 
 ## statistics 
 
