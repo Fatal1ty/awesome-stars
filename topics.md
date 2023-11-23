@@ -1271,7 +1271,6 @@
 - [dfurtado/dataclass-csv](https://github.com/dfurtado/dataclass-csv) - Map CSV to Data Classes
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [23andMe/Yamale](https://github.com/23andMe/Yamale) - A schema and validator for YAML.
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [akaihola/darker](https://github.com/akaihola/darker) - Apply black reformatting to Python files only in regions changed since a given commit. For a practical usage example, see the blog post at https://dev.to/akaihola/improving-python-code-incrementally-3
 - [sdispater/pendulum](https://github.com/sdispater/pendulum) - Python datetimes made easy
