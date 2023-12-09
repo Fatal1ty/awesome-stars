@@ -27,6 +27,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
+- [code](#code)
 - [code-quality](#code-quality)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -107,6 +108,7 @@
 - [open-source](#open-source)
 - [others](#others)
 - [p2p](#p2p)
+- [package-manager](#package-manager)
 - [parsing](#parsing)
 - [pentesting](#pentesting)
 - [pixel-art](#pixel-art)
@@ -330,6 +332,10 @@
 - [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 - [ProfOak/ascii_py](https://github.com/ProfOak/ascii_py) - Make some ascii arts
 - [pallets/click](https://github.com/pallets/click) - Python composable command line interface toolkit
+
+## code 
+
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 
 ## code-quality 
 
@@ -644,6 +650,7 @@
 
 ## hacktoberfest 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -1173,6 +1180,10 @@
 - [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
 - [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
 
+## package-manager 
+
+- [pomponchik/instld](https://github.com/pomponchik/instld) - The simplest package management
+
 ## parsing 
 
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
@@ -1213,6 +1224,7 @@
 
 ## python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Master Python typing (type hints) with interactive online exercises!
 - [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
 - [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson) - Python bindings for the simdjson project.
