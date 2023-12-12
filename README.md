@@ -93,6 +93,7 @@
 
 ## Go 
 
+- [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, ActivityPub server, powered by Go.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
@@ -253,6 +254,7 @@
 
 ## Python 
 
+- [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [pomponchik/instld](https://github.com/pomponchik/instld) - The simplest package management
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [jaraco/pip-run](https://github.com/jaraco/pip-run) - pip-run - dynamic dependency loader for Python
