@@ -56,6 +56,7 @@
 
 ## C++ 
 
+- [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
 - [maxbachmann/RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
