@@ -541,6 +541,7 @@
 
 ## flask 
 
+- [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
 - [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading, Profiling and AI debugging for Python
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
