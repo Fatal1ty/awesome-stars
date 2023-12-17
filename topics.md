@@ -800,7 +800,7 @@
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [bogdandm/json2python-models](https://github.com/bogdandm/json2python-models) - Generate Python model classes (pydantic, attrs, dataclasses) based on JSON datasets with typing module support
-- [reagento/dataclass-factory](https://github.com/reagento/dataclass-factory) - Modern way to convert python dataclasses or other objects to and from more common types like dicts or json-like structures
+- [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
@@ -1001,6 +1001,7 @@
 
 ## others 
 
+- [csvoss/onelinerizer](https://github.com/csvoss/onelinerizer) - Shamelessly convert any Python 2 script into a terrible single line of code
 - [facebookresearch/seamless_communication](https://github.com/facebookresearch/seamless_communication) - Foundational Models for State-of-the-Art Speech and Text Translation
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [jaraco/pip-run](https://github.com/jaraco/pip-run) - pip-run - dynamic dependency loader for Python
@@ -1370,7 +1371,7 @@
 - [python-trio/purerpc](https://github.com/python-trio/purerpc) - Native, async Python gRPC client and server implementation supporting asyncio, uvloop, and trio
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [perseas/Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities for Postgres database schema versioning.
-- [reagento/dataclass-factory](https://github.com/reagento/dataclass-factory) - Modern way to convert python dataclasses or other objects to and from more common types like dicts or json-like structures
+- [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python based on marisa-trie C++ library.
@@ -1472,7 +1473,7 @@
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
 - [edgedb/edgedb-python](https://github.com/edgedb/edgedb-python) - The official Python client library for EdgeDB
-- [reagento/dataclass-factory](https://github.com/reagento/dataclass-factory) - Modern way to convert python dataclasses or other objects to and from more common types like dicts or json-like structures
+- [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python based on marisa-trie C++ library.
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
