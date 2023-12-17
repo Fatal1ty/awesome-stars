@@ -255,6 +255,7 @@
 
 ## Python 
 
+- [csvoss/onelinerizer](https://github.com/csvoss/onelinerizer) - Shamelessly convert any Python 2 script into a terrible single line of code
 - [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
 - [pomponchik/instld](https://github.com/pomponchik/instld) - The simplest package management
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -462,7 +463,7 @@
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
 - [thumbor/thumbor](https://github.com/thumbor/thumbor) - thumbor is an open-source photo thumbnail service by globo.com
 - [perseas/Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities for Postgres database schema versioning.
-- [reagento/dataclass-factory](https://github.com/reagento/dataclass-factory) - Modern way to convert python dataclasses or other objects to and from more common types like dicts or json-like structures
+- [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Please post problem
 - [tammoippen/geopip](https://github.com/tammoippen/geopip) - Reverse geocode a lng/lat coordinate within a geojson `FeatureCollection` and return information about the containing country (polygon).
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
