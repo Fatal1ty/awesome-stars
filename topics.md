@@ -153,6 +153,7 @@
 - [typescript](#typescript)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [vue](#vue)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -1744,6 +1745,10 @@
 ## visual-studio-code 
 
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
+
+## vue 
+
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## web 
 
