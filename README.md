@@ -56,7 +56,7 @@
 ## C++ 
 
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
-- [maxbachmann/RapidFuzz](https://github.com/maxbachmann/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
+- [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
@@ -125,7 +125,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC activ
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [minio/minio](https://github.com/minio/minio) - High Performance Object Storage for AI
+- [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
 - [XanderStrike/goplaxt](https://github.com/XanderStrike/goplaxt) - Scrobble Plex plays to Trakt with ease!
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [logrange/logrange](https://github.com/logrange/logrange) - High performance data aggregating storage
