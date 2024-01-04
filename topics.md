@@ -625,7 +625,7 @@
 ## golang 
 
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
@@ -916,7 +916,7 @@
 
 ## mastodon 
 
-- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - ***ON HOLIDAY UNTIL 2nd JAN 2023! https://github.com/superseriousbusiness/gotosocial/issues/2477 Happy new year!*** Fast, fun, ActivityPub server, powered by Go.
+- [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 
