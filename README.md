@@ -209,6 +209,7 @@
 
 ## Makefile 
 
+- [libretro-thumbnails/libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) - Thumbnails for RetroArch
 - [ehn-dcc-development/eu-dcc-schema](https://github.com/ehn-dcc-development/eu-dcc-schema) - Schema for the ehn DCC payload
 
 ## MoonScript 
