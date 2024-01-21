@@ -221,6 +221,7 @@
 
 ## automation 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [pyppeteer/pyppeteer](https://github.com/pyppeteer/pyppeteer) - Headless chrome/chromium automation library (unofficial port of puppeteer)
@@ -311,6 +312,7 @@
 
 ## cli 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
 - [dosisod/refurb](https://github.com/dosisod/refurb) - A tool for refurbishing and modernizing Python codebases
@@ -506,6 +508,7 @@
 
 ## docker 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
@@ -996,6 +999,7 @@
 
 ## node 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
 
 ## nodejs 
@@ -1030,6 +1034,7 @@
 
 ## others 
 
+- [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc.
 - [libretro-thumbnails/libretro-thumbnails](https://github.com/libretro-thumbnails/libretro-thumbnails) - Thumbnails for RetroArch
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -1627,6 +1632,7 @@
 
 ## self-hosted 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
 
@@ -1768,6 +1774,7 @@
 
 ## typescript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown
