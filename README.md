@@ -259,6 +259,7 @@
 
 ## Python 
 
+- [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc.
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that let you manage your retro games libraries. This repo is for assets and served as a main page.
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
 - [nedbat/watchgha](https://github.com/nedbat/watchgha) - Live display of current GitHub action runs
@@ -669,6 +670,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A video game ROM collection manager to help filter, sort, patch, archive, and report on collections on any OS.
 - [protomaps/PMTiles](https://github.com/protomaps/PMTiles) - Cloud-optimized + compressed single-file tile archives for vector and raster maps
 - [tvler/streetpass](https://github.com/tvler/streetpass) - Find your people on Mastodon
