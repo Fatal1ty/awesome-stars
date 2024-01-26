@@ -494,7 +494,7 @@
 
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -600,7 +600,7 @@
 
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [darrenburns/dunk](https://github.com/darrenburns/dunk) - Prettier git diffs in the terminal  🎨
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [WangYihang/GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A `.git` folder exploiting tool that is able to restore the entire Git repository, including stash, common branches, common tags.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
@@ -696,6 +696,7 @@
 
 ## hacktoberfest 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
 - [emmercm/igir](https://github.com/emmercm/igir) - 🕹 A video game ROM collection manager to help filter, sort, patch, archive, and report on collections on any OS.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
@@ -1650,7 +1651,7 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Self-hosted Git Server with CI/CD and Kanban
+- [theonedev/onedev](https://github.com/theonedev/onedev) - Lightweight and performant GitLab alternative. Ultra easy to set up and maintain.
 
 ## server 
 
