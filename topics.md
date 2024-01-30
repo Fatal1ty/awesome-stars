@@ -1051,6 +1051,7 @@
 
 ## others 
 
+- [erikrose/parsimonious](https://github.com/erikrose/parsimonious) - The fastest pure-Python PEG parser I can muster
 - [aerokube/selenoid-ui](https://github.com/aerokube/selenoid-ui) - Graphical user interface for Selenoid project
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [libretro/libretro-database](https://github.com/libretro/libretro-database) - Repository containing cheatcode files, content data files, etc.
