@@ -637,6 +637,7 @@
 
 ## Rust 
 
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: access data freely.
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
