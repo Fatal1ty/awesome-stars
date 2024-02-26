@@ -58,7 +58,7 @@
 
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an embedded OLAP SQL Engine 🚀 powered by ClickHouse
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
+- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
 - [rapidfuzz/RapidFuzz](https://github.com/rapidfuzz/RapidFuzz) - Rapid fuzzy string matching in Python using various string metrics
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
@@ -644,7 +644,7 @@
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
-- [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust and inspired by Cargo.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
