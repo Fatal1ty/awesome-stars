@@ -644,7 +644,7 @@
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
