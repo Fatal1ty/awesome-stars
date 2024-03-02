@@ -33,6 +33,7 @@
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vala](#vala)
+- [Vue](#vue)
 
 ## C 
 
@@ -711,6 +712,10 @@
 ## Vala 
 
 - [baedert/corebird](https://github.com/baedert/corebird) - Native Gtk+ Twitter Client
+
+## Vue 
+
+- [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 
 
 ## License
