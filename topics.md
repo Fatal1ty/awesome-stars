@@ -58,6 +58,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emoji](#emoji)
+- [emulator](#emulator)
 - [ethereum](#ethereum)
 - [firefox](#firefox)
 - [flask](#flask)
@@ -571,6 +572,10 @@
 
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 
+## emulator 
+
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
+
 ## ethereum 
 
 - [pandonetwork/pando](https://github.com/pandonetwork/pando) - A distributed remote protocol for git based on IPFS, ethereum and aragonOS
@@ -713,6 +718,7 @@
 
 ## hacktoberfest 
 
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [asyncapi/spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
@@ -805,6 +811,7 @@
 
 ## ios 
 
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS
@@ -911,6 +918,7 @@
 
 ## linux 
 
+- [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [Darin755/browser-linux](https://github.com/Darin755/browser-linux) - Linux, in your browser
