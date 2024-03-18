@@ -284,6 +284,7 @@
 
 ## Python 
 
+- [hauntsaninja/useful_types](https://github.com/hauntsaninja/useful_types) - Useful types for Python
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [pypa/readme_renderer](https://github.com/pypa/readme_renderer) - Safely render long_description/README files in Warehouse
@@ -733,6 +734,7 @@
 
 ## Vue 
 
+- [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [tlbootcamp/tlroadmap](https://github.com/tlbootcamp/tlroadmap) - Тимлид – это ❄️, потому что в каждой компании он уникален и неповторим.
 
 
