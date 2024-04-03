@@ -1473,7 +1473,7 @@
 - [nschloe/termtables](https://github.com/nschloe/termtables) - :desktop_computer: Pretty tables in the terminal
 - [nschloe/termplotlib](https://github.com/nschloe/termplotlib) - :chart_with_upwards_trend: Plotting on the command line
 - [erdewit/distex](https://github.com/erdewit/distex) - Distributed process pool for Python
-- [allrod5/injectable](https://github.com/allrod5/injectable) - Python Dependency Injection for Humans™
+- [roo-oliv/injectable](https://github.com/roo-oliv/injectable) - Python Dependency Injection for Humans™
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [gawel/aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
