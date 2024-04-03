@@ -454,7 +454,7 @@
 - [erdewit/distex](https://github.com/erdewit/distex) - Distributed process pool for Python
 - [seandstewart/typical](https://github.com/seandstewart/typical) - Typical: Fast, simple, & correct data-validation using Python 3 typing.
 - [anandpawara/Real_Time_Image_Animation](https://github.com/anandpawara/Real_Time_Image_Animation) - The Project is real time application in opencv using first order model
-- [allrod5/injectable](https://github.com/allrod5/injectable) - Python Dependency Injection for Humans™
+- [roo-oliv/injectable](https://github.com/roo-oliv/injectable) - Python Dependency Injection for Humans™
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [pytest-dev/pytest-mock](https://github.com/pytest-dev/pytest-mock) - Thin-wrapper around the mock package for easier use with pytest
 - [gawel/aiocron](https://github.com/gawel/aiocron) - Crontabs for asyncio
