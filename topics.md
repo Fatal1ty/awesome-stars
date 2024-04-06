@@ -1300,7 +1300,7 @@
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [joefitzgerald/packer-windows](https://github.com/joefitzgerald/packer-windows) - Windows Packer Templates
 - [pyapi-gitlab/pyapi-gitlab](https://github.com/pyapi-gitlab/pyapi-gitlab) - pyapi-gitlab is a python wrapper for the Gitlab API.
-- [docopt/docopt](https://github.com/docopt/docopt) - Pythonic command line arguments parser, that will make you smile
+- [docopt/docopt](https://github.com/docopt/docopt) - This project is no longer maintained. Please see https://github.com/jazzband/docopt-ng
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
 - [JustAMan/pyWinClobber](https://github.com/JustAMan/pyWinClobber) - A set of Python scripts to clobber some free space out of Windows installations. Use at your own risk!
 - [Fatal1ty/vkdownloader](https://github.com/Fatal1ty/vkdownloader) - App for parallel downloading of photos, audios and other from vk.com
