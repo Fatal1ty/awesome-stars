@@ -1113,6 +1113,7 @@
 
 ## others 
 
+- [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
