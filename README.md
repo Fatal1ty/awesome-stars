@@ -701,6 +701,7 @@
 
 ## Shell 
 
+- [himadieievsv/redis-cluster](https://github.com/himadieievsv/redis-cluster) - Minimalistic Redis Cluster Image for Docker.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
