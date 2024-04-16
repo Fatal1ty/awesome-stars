@@ -1113,6 +1113,7 @@
 
 ## others 
 
+- [himadieievsv/redis-cluster](https://github.com/himadieievsv/redis-cluster) - Minimalistic Redis Cluster Image for Docker.
 - [gravity-ui/uikit](https://github.com/gravity-ui/uikit) - 
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
