@@ -292,6 +292,7 @@
 
 ## Python 
 
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [pomponchik/cantok](https://github.com/pomponchik/cantok) - Implementation of the "Cancellation Token" pattern
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
 - [adamchainz/blacken-docs](https://github.com/adamchainz/blacken-docs) - Run `black` on python code blocks in documentation files
