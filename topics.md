@@ -1375,6 +1375,7 @@
 
 ## python 
 
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [pydantic/FastUI](https://github.com/pydantic/FastUI) - Build better UIs faster.
