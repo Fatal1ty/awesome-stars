@@ -293,6 +293,7 @@
 
 ## Python 
 
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [pomponchik/cantok](https://github.com/pomponchik/cantok) - Implementation of the "Cancellation Token" pattern
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U Playlist for free TV channels
