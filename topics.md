@@ -1118,6 +1118,7 @@
 
 ## others 
 
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [pomponchik/cantok](https://github.com/pomponchik/cantok) - Implementation of the "Cancellation Token" pattern
 - [carlrobertoh/CodeGPT](https://github.com/carlrobertoh/CodeGPT) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Claude 3, Code Llama, and others, all for free
 - [himadieievsv/redis-cluster](https://github.com/himadieievsv/redis-cluster) - Minimalistic Redis Cluster Image for Docker.
