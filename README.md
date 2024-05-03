@@ -293,6 +293,7 @@
 
 ## Python 
 
+- [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
 - [pomponchik/cantok](https://github.com/pomponchik/cantok) - Implementation of the "Cancellation Token" pattern
@@ -505,7 +506,7 @@
 - [axiak/fuzzyset](https://github.com/axiak/fuzzyset) - A simple fuzzy matching set for python strings
 - [sumerc/yappi](https://github.com/sumerc/yappi) - Yet Another Python Profiler, but this time multithreading, asyncio and gevent aware.
 - [prkumar/uplink](https://github.com/prkumar/uplink) - A Declarative HTTP Client for Python
-- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library. Supports Python 2 & Python 3.
+- [secdev/scapy](https://github.com/secdev/scapy) - Scapy: the Python-based interactive packet manipulation program & library.
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not.
 - [tartiflette/tartiflette](https://github.com/tartiflette/tartiflette) - GraphQL Engine built with Python 3.6+ / asyncio
@@ -683,7 +684,7 @@
 - [indygreg/PyOxidizer](https://github.com/indygreg/PyOxidizer) - A modern Python application packaging and distribution tool
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
-- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental python package manager.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
