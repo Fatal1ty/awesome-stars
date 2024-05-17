@@ -232,6 +232,7 @@
 
 ## Kotlin 
 
+- [InSyncWithFoo/pyright-langserver-for-pycharm](https://github.com/InSyncWithFoo/pyright-langserver-for-pycharm) - Pyright language server integration for PyCharm Professional
 - [marcelkliemannel/intellij-developer-tools-plugin](https://github.com/marcelkliemannel/intellij-developer-tools-plugin) - This plugin is a powerful and versatile set of tools designed to enhance the development experience for software engineers. With its extensive collection of features, developers can increase their pro
 
 ## MDX 
@@ -703,7 +704,7 @@
 - [rapiz1/catp](https://github.com/rapiz1/catp) - Print the output of a running process
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, and grep output
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
