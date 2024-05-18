@@ -405,7 +405,7 @@
 ## continuous-integration 
 
 - [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
-- [gocd/gocd](https://github.com/gocd/gocd) - Main repository for GoCD - Continuous Delivery server
+- [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 
 ## covid-19 
 
