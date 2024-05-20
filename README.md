@@ -201,6 +201,7 @@
 
 ## JavaScript 
 
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
 - [IvanGlinkin/CCTV](https://github.com/IvanGlinkin/CCTV) - Close-Circuit Telegram Vision revolutionizes location tracking with its open-source design and Telegram API integration. Offering precise tracking within 50-100 meters, users can monitor others in rea
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
 - [aerokube/selenoid-ui](https://github.com/aerokube/selenoid-ui) - Graphical user interface for Selenoid project
@@ -297,6 +298,7 @@
 
 ## Python 
 
+- [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
