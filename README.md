@@ -740,6 +740,7 @@
 
 ## Swift 
 
+- [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - macOS menubar tool to set Charge Limits and prolong battery lifespan
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
