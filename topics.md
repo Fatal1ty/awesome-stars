@@ -1267,7 +1267,7 @@
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
 - [c4urself/bump2version](https://github.com/c4urself/bump2version) - Version-bump your software with a single command
-- [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
+- [python-arq/arq](https://github.com/python-arq/arq) - Fast job queuing and RPC in python with asyncio and redis.
 - [Grokzen/pykwalify](https://github.com/Grokzen/pykwalify) - Python YAML/JSON schema validation library
 - [MSeifert04/simple_benchmark](https://github.com/MSeifert04/simple_benchmark) - A simple benchmarking package including visualization facilities.
 - [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
