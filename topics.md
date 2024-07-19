@@ -1135,7 +1135,7 @@
 
 ## nlp 
 
-- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & command-line tool to gather text on the Web: Crawling & scraping, content extraction, metadata. TXT, Markdown, CSV & XML output.
+- [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
