@@ -1185,6 +1185,7 @@
 
 ## others 
 
+- [pcarrier/srv.us](https://github.com/pcarrier/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
 - [pkg-tool/paster](https://github.com/pkg-tool/paster) - Simple Intelliji plugin to copy files and folders in clipboard
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [mosquito/markdown-pytest](https://github.com/mosquito/markdown-pytest) - A simple module to test your documentation examples with pytest
