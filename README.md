@@ -312,6 +312,8 @@
 
 ## Python 
 
+- [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
+- [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
