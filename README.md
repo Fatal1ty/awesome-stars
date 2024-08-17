@@ -312,6 +312,7 @@
 
 ## Python 
 
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
