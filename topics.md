@@ -1005,7 +1005,7 @@
 
 ## library 
 
-- [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
+- [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [eigenein/protobuf](https://github.com/eigenein/protobuf) - Python implementation of Protocol Buffers with dataclass-based schemaʼs
 - [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
 
@@ -1526,7 +1526,7 @@
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [Fatal1ty/openapify](https://github.com/Fatal1ty/openapify) - Framework agnostic OpenAPI Specification generation for code lovers
-- [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
+- [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
@@ -1710,7 +1710,7 @@
 - [hugovk/norwegianblue](https://github.com/hugovk/norwegianblue) - CLI to show end-of-life dates for a number of products.
 - [lucsorel/py2puml](https://github.com/lucsorel/py2puml) - Generate PlantUML class diagrams to document your Python application.
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
-- [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
+- [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [cirospaciari/socketify.py](https://github.com/cirospaciari/socketify.py) - Bringing Http/Https and WebSockets High Performance servers for PyPy3 and Python3
@@ -1822,7 +1822,7 @@
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
-- [thedrow/fastuuid](https://github.com/thedrow/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
+- [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
 - [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
