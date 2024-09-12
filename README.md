@@ -316,7 +316,7 @@
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
-- [outlines-dev/outlines](https://github.com/outlines-dev/outlines) - Structured Text Generation
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captc
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
