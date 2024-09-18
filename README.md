@@ -767,6 +767,7 @@
 
 ## TypeScript 
 
+- [dahlia/hollo](https://github.com/dahlia/hollo) - Federated single-user microblogging software
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [gravity-ui/uikit](https://github.com/gravity-ui/uikit) - 
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
