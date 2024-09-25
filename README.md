@@ -131,7 +131,7 @@
 - [superseriousbusiness/gotosocial](https://github.com/superseriousbusiness/gotosocial) - Fast, fun, small ActivityPub server.
 - [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
-- [harness/gitness](https://github.com/harness/gitness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
+- [harness/harness](https://github.com/harness/harness) - Gitness is an Open Source developer platform with Source Control management, Continuous Integration and Continuous Delivery.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
@@ -207,7 +207,7 @@
 
 ## Java 
 
-- [carlrobertoh/CodeGPT](https://github.com/carlrobertoh/CodeGPT) - JetBrains extension providing access to state-of-the-art LLMs, such as GPT-4, Claude 3, Code Llama, and others, all for free
+- [carlrobertoh/CodeGPT](https://github.com/carlrobertoh/CodeGPT) - The leading open-source AI copilot for JetBrains. Connect to any model in any environment, and customize your coding experience in any way you like.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
 - [gocd/gocd](https://github.com/gocd/gocd) - GoCD - Continuous Delivery server main repository
 
