@@ -845,6 +845,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
+- [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) - Type hints support for the Sphinx autodoc extension
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [XanderStrike/goplaxt](https://github.com/XanderStrike/goplaxt) - Scrobble Plex plays to Trakt with ease!
@@ -1358,7 +1359,6 @@
 - [tbenthompson/cppimport](https://github.com/tbenthompson/cppimport) - Import C++ files directly from Python!
 - [Fatal1ty/aiocached](https://github.com/Fatal1ty/aiocached) - Simple decorator to cache coroutine function results
 - [facebook/pyre2](https://github.com/facebook/pyre2) - Python wrapper for RE2
-- [tox-dev/sphinx-autodoc-typehints](https://github.com/tox-dev/sphinx-autodoc-typehints) - Type hints support for the Sphinx autodoc extension
 - [ChrisKnott/Algojammer](https://github.com/ChrisKnott/Algojammer) - An experimental code editor for writing algorithms
 - [MarvAmBass/docker-versatile-postfix](https://github.com/MarvAmBass/docker-versatile-postfix) - A Docker Postfix, designed to be as versatile as possible. Just a SMTP Server with SMTP Auth and possibility to receive emails
 - [cis-ash/TEXTREME](https://github.com/cis-ash/TEXTREME) - 
