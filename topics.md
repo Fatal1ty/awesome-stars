@@ -1533,6 +1533,7 @@
 
 ## python 
 
+- [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
