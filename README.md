@@ -314,6 +314,7 @@
 
 ## Python 
 
+- [genmoai/models](https://github.com/genmoai/models) - The best OSS video generation models
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
