@@ -316,6 +316,7 @@
 
 ## Python 
 
+- [aamalev/rsjwt](https://github.com/aamalev/rsjwt) - 
 - [aiokitchen/hasql](https://github.com/aiokitchen/hasql) - hasql - is a library for high available PostgreSQL clusters.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
 - [genmoai/models](https://github.com/genmoai/models) - The best OSS video generation models
