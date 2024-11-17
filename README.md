@@ -316,6 +316,7 @@
 
 ## Python 
 
+- [domdfcoding/pyupgrade-directories](https://github.com/domdfcoding/pyupgrade-directories) - Run pyupgrade on all files in a directory, and optionally recursively.
 - [aamalev/rsjwt](https://github.com/aamalev/rsjwt) - 
 - [aiokitchen/hasql](https://github.com/aiokitchen/hasql) - hasql - is a library for high available PostgreSQL clusters.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
@@ -613,7 +614,7 @@
 - [dialogflow/dialogflow-python-client](https://github.com/dialogflow/dialogflow-python-client) - Python library for Dialogflow
 - [Fatal1ty/aioapns](https://github.com/Fatal1ty/aioapns) - An efficient APNs Client Library for Python/asyncio
 - [Fatal1ty/aiofcm](https://github.com/Fatal1ty/aiofcm) - An efficient Firebase Cloud Messaging Client Library for Python/asyncio
-- [python-hyper/h2](https://github.com/python-hyper/h2) - HTTP/2 State-Machine based protocol implementation
+- [python-hyper/h2](https://github.com/python-hyper/h2) - Pure-Python HTTP/2 protocol implementation
 - [decentfox/aioh2](https://github.com/decentfox/aioh2) - HTTP/2 implementation with hyper-h2 on Python 3 asyncio.
 - [Polyconseil/aioamqp](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
