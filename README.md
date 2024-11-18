@@ -34,6 +34,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
+- [Svelte](#svelte)
 - [Swift](#swift)
 - [TypeScript](#typescript)
 - [Vala](#vala)
@@ -762,6 +763,10 @@
 - [squeaky-pl/portable-pypy](https://github.com/squeaky-pl/portable-pypy) - Portable 64 bit x86 PyPy binaries for many Linux distributions.
 - [JBakamovic/yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
 - [tj/git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+
+## Svelte 
+
+- [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅
 
 ## Swift 
 
