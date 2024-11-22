@@ -320,7 +320,7 @@
 - [aamalev/rsjwt](https://github.com/aamalev/rsjwt) - 
 - [aiokitchen/hasql](https://github.com/aiokitchen/hasql) - hasql - is a library for high available PostgreSQL clusters.
 - [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed) - 🌉 A bridge between decentralized social network protocols
-- [genmoai/models](https://github.com/genmoai/models) - The best OSS video generation models
+- [genmoai/mochi](https://github.com/genmoai/mochi) - The best OSS video generation models
 - [tweag/FawltyDeps](https://github.com/tweag/FawltyDeps) - Python dependency checker
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
