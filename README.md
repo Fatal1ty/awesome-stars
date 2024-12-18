@@ -526,7 +526,6 @@
 - [Fatal1ty/tinkoff-api](https://github.com/Fatal1ty/tinkoff-api) - Python Tinkoff API client for asyncio and humans
 - [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter) - A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 - [closeio/ciso8601](https://github.com/closeio/ciso8601) - Fast ISO8601 date time parser for Python written in C
-- [kiorky/croniter-fork](https://github.com/kiorky/croniter-fork) - croniter is a python module to provide iteration for datetime object.
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 - [verigak/progress](https://github.com/verigak/progress) - Easy to use progress bars for Python
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
