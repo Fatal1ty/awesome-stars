@@ -319,6 +319,7 @@
 
 ## Python 
 
+- [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - 👾🍎 Apple MLX engine for LM Studio
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [domdfcoding/pyupgrade-directories](https://github.com/domdfcoding/pyupgrade-directories) - Run pyupgrade on all files in a directory, and optionally recursively.
 - [aamalev/rsjwt](https://github.com/aamalev/rsjwt) - 
@@ -770,6 +771,7 @@
 
 ## Svelte 
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅
 
 ## Swift 
