@@ -851,7 +851,6 @@
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [sparckles/Robyn](https://github.com/sparckles/Robyn) - Robyn is a Super Fast Async Python Web Framework with a Rust runtime.
 - [schemathesis/schemathesis](https://github.com/schemathesis/schemathesis) - Supercharge your API testing, catch bugs, and ensure compliance
-- [marshmallow-code/apispec](https://github.com/marshmallow-code/apispec) - A pluggable API specification generator. Currently supports the OpenAPI Specification (f.k.a. the Swagger specification)..
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -1345,7 +1344,7 @@
 - [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [patrick91/links-demo](https://github.com/patrick91/links-demo) - Sample package for testing PyPI links.
 - [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
-- [mishamsk/pyoak](https://github.com/mishamsk/pyoak) - Library for building and working with arbitrary ASTs on top dataclasses
+- [mishamsk/pyoak](https://github.com/mishamsk/pyoak) - Library for building and working with arbitrary ASTs on top of dataclasses
 - [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
 - [python/typing_extensions](https://github.com/python/typing_extensions) - Backported and experimental type hints for Python
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
