@@ -117,6 +117,7 @@
 
 ## Go 
 
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [walles/moar](https://github.com/walles/moar) - Moar is a pager. It's designed to just do the right thing without any configuration.
