@@ -334,6 +334,7 @@
 
 ## Python 
 
+- [omnilib/aql](https://github.com/omnilib/aql) - asyncio query generator
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase is an open-source RAG system that lets you create AI-powered Q&A assistants by indexing websites, PDF documents, YouTube videos, and GitHub code repositories.
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [mwilliamson/jq.py](https://github.com/mwilliamson/jq.py) - Python bindings for jq
