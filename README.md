@@ -816,6 +816,7 @@
 
 ## TypeScript 
 
+- [haggen/localthreat](https://github.com/haggen/localthreat) - Paste the transcript or members from chat to get a report of affiliations and PvP stats.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
