@@ -130,6 +130,7 @@
 - [pcarrier/srv.us](https://github.com/pcarrier/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [shizunge/endlessh-go](https://github.com/shizunge/endlessh-go) - A golang implementation of endlessh exporting Prometheus metrics, visualized by a Grafana dashboard.
 - [centrifugal/centrifugo](https://github.com/centrifugal/centrifugo) - Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.
@@ -359,7 +360,6 @@
 - [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captc
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
-- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [mosquito/markdown-pytest](https://github.com/mosquito/markdown-pytest) - A simple module to test your documentation examples with pytest
 - [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [python-jsonschema/check-jsonschema](https://github.com/python-jsonschema/check-jsonschema) - A CLI and set of pre-commit hooks for jsonschema validation with built-in support for GitHub Workflows, Renovate, Azure Pipelines, and more!
