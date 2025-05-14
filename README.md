@@ -336,6 +336,7 @@
 
 ## Python 
 
+- [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [omnilib/aql](https://github.com/omnilib/aql) - asyncio query generator
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Gurubase lets you add an "Ask AI" button to your technical docs, turning your content into an AI assistant. It uses web pages, PDFs, YouTube videos, and GitHub repos as sources to generate instant, ac
@@ -798,6 +799,7 @@
 
 ## Svelte 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅
 
 ## Swift 
