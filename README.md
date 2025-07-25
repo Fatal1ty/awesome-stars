@@ -11,6 +11,7 @@
 - [Clojure](#clojure)
 - [Cython](#cython)
 - [Dockerfile](#dockerfile)
+- [Elixir](#elixir)
 - [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
@@ -112,6 +113,10 @@
 ## Dockerfile 
 
 - [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+## Elixir 
+
+- [wanderer-industries/wanderer](https://github.com/wanderer-industries/wanderer) - #1 EVE Online Mapper
 
 ## GDScript 
 
@@ -787,6 +792,7 @@
 
 ## Shell 
 
+- [wanderer-industries/community-edition](https://github.com/wanderer-industries/community-edition) - Example Docker Compose setup for hosting Wanderer Community Edition
 - [himadieievsv/redis-cluster](https://github.com/himadieievsv/redis-cluster) - Minimalistic Redis Cluster Image for Docker.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
