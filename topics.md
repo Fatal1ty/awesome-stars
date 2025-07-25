@@ -1357,6 +1357,8 @@
 
 ## others 
 
+- [wanderer-industries/wanderer](https://github.com/wanderer-industries/wanderer) - #1 EVE Online Mapper
+- [wanderer-industries/community-edition](https://github.com/wanderer-industries/community-edition) - Example Docker Compose setup for hosting Wanderer Community Edition
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [mwilliamson/jq.py](https://github.com/mwilliamson/jq.py) - Python bindings for jq
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
