@@ -315,12 +315,12 @@
 ## aws 
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 
 ## azure 
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 
 ## backend 
 
@@ -528,7 +528,7 @@
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
 - [dcmoura/spyql](https://github.com/dcmoura/spyql) - Query data on the command line with SQL-like SELECTs powered by Python expressions
@@ -538,7 +538,7 @@
 ## data-analysis 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more
@@ -546,7 +546,7 @@
 ## data-engineering 
 
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
 - [datafold/data-diff](https://github.com/datafold/data-diff) - Compare tables within or across databases
 
@@ -804,7 +804,7 @@
 
 ## github-api 
 
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 
 ## go 
@@ -814,13 +814,13 @@
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [go-task/task](https://github.com/go-task/task) - A task runner / simpler Make alternative written in Go
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
@@ -854,7 +854,7 @@
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [wagoodman/bashful](https://github.com/wagoodman/bashful) - Use a yaml file to stitch together commands and bash snippits and run them with a bit of style.  Why? Because your bash script should be quiet and shy-like (...and not such a loud mouth).
 - [miniscruff/changie](https://github.com/miniscruff/changie) - Automated changelog tool for preparing releases with lots of customization options
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
@@ -880,7 +880,7 @@
 
 ## google 
 
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 
 ## graphql 
 
@@ -1096,7 +1096,7 @@
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
 - [nolar/kopf](https://github.com/nolar/kopf) - A Python framework to write Kubernetes operators in just a few lines of code
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
@@ -1153,7 +1153,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 
 ## login 
@@ -1377,6 +1377,7 @@
 
 ## others 
 
+- [mosquito/snak](https://github.com/mosquito/snak) - Python Standalone Build manager
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [wanderer-industries/wanderer](https://github.com/wanderer-industries/wanderer) - #1 EVE Online Mapper
 - [wanderer-industries/community-edition](https://github.com/wanderer-industries/community-edition) - Example Docker Compose setup for hosting Wanderer Community Edition
@@ -2146,7 +2147,7 @@
 ## sql 
 
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
-- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The developer first cloud governance platform
+- [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) - The open source ELT framework powered by Apache Arrow
 - [chdb-io/chdb](https://github.com/chdb-io/chdb) - chDB is an in-process OLAP SQL Engine 🚀 powered by ClickHouse
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
