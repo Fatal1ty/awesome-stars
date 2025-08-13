@@ -844,6 +844,7 @@
 
 ## golang 
 
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
