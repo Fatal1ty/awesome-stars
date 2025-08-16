@@ -343,6 +343,7 @@
 
 ## Python 
 
+- [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 - [mosquito/snak](https://github.com/mosquito/snak) - Python Standalone Build manager
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -659,7 +660,7 @@
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [MagicStack/httptools](https://github.com/MagicStack/httptools) - Fast HTTP parser
 - [piskvorky/gensim](https://github.com/piskvorky/gensim) - Topic Modelling for Humans
-- [ansible/molecule](https://github.com/ansible/molecule) - Molecule aids in the development and testing of Ansible content: collections, playbooks and roles
+- [ansible/molecule](https://github.com/ansible/molecule) - An ansible-native testing framework for collections, playbooks, and roles with configurable workflows for testing any system or service
 - [brandon-rhodes/logging_tree](https://github.com/brandon-rhodes/logging_tree) - Debug Python logging problems by printing out the tree of handlers you have defined.
 - [twisted/klein](https://github.com/twisted/klein) - werkzeug + twisted.web
 - [numba/llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
