@@ -1384,6 +1384,7 @@
 
 ## others 
 
+- [aiokitchen/aiomisc](https://github.com/aiokitchen/aiomisc) - aiomisc - miscellaneous utils for asyncio
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
 - [mosquito/snak](https://github.com/mosquito/snak) - Python Standalone Build manager
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -1694,6 +1695,7 @@
 
 ## python 
 
+- [reagento/dishka](https://github.com/reagento/dishka) - Cute dependency injection (DI) framework for Python with agreeable API and everything you need
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects
 - [omnilib/aql](https://github.com/omnilib/aql) - asyncio query generator
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
