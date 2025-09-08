@@ -1390,6 +1390,7 @@
 
 ## others 
 
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [aiokitchen/aiomisc](https://github.com/aiokitchen/aiomisc) - aiomisc - miscellaneous utils for asyncio
 - [cosmicpython/book](https://github.com/cosmicpython/book) - A Book about Pythonic Application Architecture Patterns for Managing Complexity.  Cosmos is the Opposite of Chaos you see. O'R. wouldn't actually let us call it "Cosmic Python" tho.
@@ -1526,7 +1527,7 @@
 - [cis-ash/TEXTREME](https://github.com/cis-ash/TEXTREME) - 
 - [certifi/python-certifi](https://github.com/certifi/python-certifi) - (Python Distribution) A carefully curated collection of Root Certificates for validating the trustworthiness of SSL certificates while verifying the identity of TLS hosts.
 - [swig/swig](https://github.com/swig/swig) - SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages.
-- [mkaz/termgraph](https://github.com/mkaz/termgraph) - a python command-line tool which draws basic graphs in the terminal
+- [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line tool which draws basic graphs in the terminal
 - [pnuckowski/aioresponses](https://github.com/pnuckowski/aioresponses) - Aioresponses is a helper for mock/fake web requests in python aiohttp package.
 - [axiak/fuzzyset](https://github.com/axiak/fuzzyset) - A simple fuzzy matching set for python strings
 - [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus.
