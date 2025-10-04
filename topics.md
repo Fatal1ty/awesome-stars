@@ -199,6 +199,7 @@
 - [ui](#ui)
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
+- [visualization](#visualization)
 - [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -2370,6 +2371,16 @@
 ## visual-studio-code 
 
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
+
+## visualization 
+
+- [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
+- [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
+- [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
+- [reorx/httpstat](https://github.com/reorx/httpstat) - curl statistics made simple
+- [gyli/PyWaffle](https://github.com/gyli/PyWaffle) - 🧇 Make Waffle Charts in Python.
+- [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
+- [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 
 ## vpn 
 
