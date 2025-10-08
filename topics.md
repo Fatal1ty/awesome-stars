@@ -216,6 +216,7 @@
 
 ## ai 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -277,6 +278,7 @@
 
 ## artificial-intelligence 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
@@ -290,6 +292,7 @@
 
 ## automation 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captc
@@ -383,6 +386,7 @@
 
 ## chatbot 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 
 ## chatgpt 
@@ -1191,6 +1195,7 @@
 
 ## low-code 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## lua 
@@ -1336,6 +1341,7 @@
 
 ## nextjs 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1349,6 +1355,7 @@
 
 ## no-code 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## node 
@@ -1396,6 +1403,7 @@
 
 ## openai 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -2038,6 +2046,7 @@
 
 ## react 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [gravity-ui/uikit](https://github.com/gravity-ui/uikit) - 
@@ -2347,6 +2356,7 @@
 
 ## typescript 
 
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
