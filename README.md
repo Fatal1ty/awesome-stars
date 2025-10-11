@@ -107,7 +107,7 @@
 ## Cython 
 
 - [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
-- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors.
+- [rushter/selectolax](https://github.com/rushter/selectolax) - Python binding to Modest and Lexbor engines. Fast HTML5 parser with CSS selectors for Python.
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## Dockerfile 
@@ -346,6 +346,7 @@
 
 ## Python 
 
+- [Fatal1ty/operetta](https://github.com/Fatal1ty/operetta) - A lightweight framework for building Python applications that is not tied to a specific transport protocol
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients
 - [aiokitchen/aiomisc](https://github.com/aiokitchen/aiomisc) - aiomisc - miscellaneous utils for asyncio
