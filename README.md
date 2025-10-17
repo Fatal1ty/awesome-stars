@@ -761,6 +761,7 @@
 
 ## Rust 
 
+- [psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [nyudenkov/pysentry](https://github.com/nyudenkov/pysentry) - 🐍 Scan your Python dependencies for known security vulnerabilities with Rust-powered scanner
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
