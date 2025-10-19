@@ -1540,7 +1540,7 @@
 - [MSeifert04/simple_benchmark](https://github.com/MSeifert04/simple_benchmark) - A simple benchmarking package including visualization facilities.
 - [jsvine/markovify](https://github.com/jsvine/markovify) - A simple, extensible Markov chain generator.
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
-- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
 - [channable/opnieuw](https://github.com/channable/opnieuw) - One weird trick to make your code more reliable
 - [aio-libs/aioamqp_consumer](https://github.com/aio-libs/aioamqp_consumer) - consumer/producer/rpc library built over aioamqp
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures
