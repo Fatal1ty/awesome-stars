@@ -1429,6 +1429,8 @@
 
 ## others 
 
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+- [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [lcbro/lcbro-mcp](https://github.com/lcbro/lcbro-mcp) - Low Cost Browsing MCP Server - MCP server aggregator for browser automation, parsing and optional LLM data cleaning using Playwright.
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
