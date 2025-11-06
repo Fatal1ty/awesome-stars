@@ -107,6 +107,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
+- [laravel](#laravel)
 - [latex](#latex)
 - [learning](#learning)
 - [library](#library)
@@ -247,7 +248,6 @@
 
 - [datalens-tech/datalens](https://github.com/datalens-tech/datalens) - A modern, scalable analytics system
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
@@ -256,6 +256,7 @@
 
 ## android 
 
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [TapiocaFox/Daijishou](https://github.com/TapiocaFox/Daijishou) - Daijishō is a retro launcher that manages your retro games libraries. This repo is for assets and served as a main page.
@@ -654,6 +655,7 @@
 
 ## deployment 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
 ## design 
@@ -706,7 +708,7 @@
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -759,6 +761,7 @@
 
 ## electron 
 
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 
@@ -1054,6 +1057,7 @@
 
 ## ios 
 
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [Dimillian/IceCubesApp](https://github.com/Dimillian/IceCubesApp) - A SwiftUI Mastodon client
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -1078,6 +1082,7 @@
 
 ## javascript 
 
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [gildas-lormeau/SingleFile](https://github.com/gildas-lormeau/SingleFile) - Web Extension for saving a faithful copy of a complete web page in a single HTML file
@@ -1153,6 +1158,10 @@
 ## language 
 
 - [samgozman/YoptaScript](https://github.com/samgozman/YoptaScript) - Joke programming language for 'gopniks' in Russia. Back from 2016!
+
+## laravel 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 
 ## latex 
 
@@ -1285,12 +1294,12 @@
 
 ## material-design 
 
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [creativetimofficial/material-kit](https://github.com/creativetimofficial/material-kit) - Free and Open Source UI Kit for Bootstrap 5, React, Vue.js, React Native and Sketch based on Google's Material Design
 
 ## mongodb 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
 - [adriangs1996/wintry](https://github.com/adriangs1996/wintry) - Python web framework in a new way, a cooler way. Winter is comming
@@ -1312,7 +1321,7 @@
 
 ## mysql 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
@@ -1352,7 +1361,7 @@
 
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
 ## nlp 
@@ -1373,7 +1382,7 @@
 
 ## nodejs 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [joemccann/dillinger](https://github.com/joemccann/dillinger) - The last Markdown editor, ever.
@@ -1683,7 +1692,7 @@
 
 ## php 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 
 ## pixel-art 
 
@@ -1694,7 +1703,6 @@
 - [psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [Fatal1ty/operetta](https://github.com/Fatal1ty/operetta) - A lightweight framework for building Python applications that is not tied to a specific transport protocol
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1741,6 +1749,7 @@
 
 ## pwa 
 
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 
 ## python 
@@ -2074,7 +2083,6 @@
 
 - [haggen/localthreat](https://github.com/haggen/localthreat) - Paste the transcript or members from chat to get a report of affiliations and PvP stats.
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 
 ## rest-api 
@@ -2177,6 +2185,7 @@
 ## self-hosted 
 
 - [Gurubase/gurubase](https://github.com/Gurubase/gurubase) - Turn Your Content Into a 24/7 AI Support Assistant
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2187,6 +2196,7 @@
 
 ## server 
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [APIs-guru/awesome-openapi3](https://github.com/APIs-guru/awesome-openapi3) - 😎 A list of awesome projects related to OpenAPI 3.0.x, curated by the community
 - [nicholaschiasson/ngx_upstream_jdomain](https://github.com/nicholaschiasson/ngx_upstream_jdomain) - An asynchronous domain name resolution module for nginx upstream.
@@ -2267,7 +2277,7 @@
 ## svelte 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 
 ## swift 
 
@@ -2420,12 +2430,13 @@
 
 ## vue 
 
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [bttger/contributing-gen-web](https://github.com/bttger/contributing-gen-web) - Web Frontend of contributing-gen - The guideline to communicate how people should contribute to your project.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## vuejs 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 
 ## web 
 
