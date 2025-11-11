@@ -362,6 +362,7 @@
 - [omnilib/aql](https://github.com/omnilib/aql) - asyncio query generator
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [mwilliamson/jq.py](https://github.com/mwilliamson/jq.py) - Python bindings for jq
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
 - [wimglenn/johnnydep](https://github.com/wimglenn/johnnydep) - Display dependency tree of Python distribution
 - [mjpieters/aiolimiter](https://github.com/mjpieters/aiolimiter) - An efficient implementation of a rate limiter for asyncio.
@@ -858,7 +859,6 @@
 - [lcbro/lcbro-mcp](https://github.com/lcbro/lcbro-mcp) - Low Cost Browsing MCP Server - MCP server aggregator for browser automation, parsing and optional LLM data cleaning using Playwright.
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [haggen/localthreat](https://github.com/haggen/localthreat) - Paste the transcript or members from chat to get a report of affiliations and PvP stats.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 - [zachd/stretch-my-time-off](https://github.com/zachd/stretch-my-time-off) - Maximise your vacation days 🌴📅
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
