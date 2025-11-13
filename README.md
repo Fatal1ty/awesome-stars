@@ -97,6 +97,7 @@
 
 ## CSS 
 
+- [lepture/shibuya](https://github.com/lepture/shibuya) - A responsive, good looking with modern design documentation theme for Sphinx, with great supports for many sphinx extensions.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
 ## Clojure 
@@ -347,6 +348,9 @@
 
 ## Python 
 
+- [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
+- [authlib/joserfc](https://github.com/authlib/joserfc) - Implementations of JOSE RFCs in Python
+- [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - :page_facing_up: Test code blocks in your READMEs
 - [ilevkivskyi/typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module
 - [sissaschool/xmlschema](https://github.com/sissaschool/xmlschema) - XML Schema validator and data conversion library for Python
 - [sql-hkr/tiny8](https://github.com/sql-hkr/tiny8) - A tiny CPU simulator written in Python
