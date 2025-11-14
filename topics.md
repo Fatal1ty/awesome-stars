@@ -1282,6 +1282,7 @@
 
 ## markdown 
 
+- [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - :page_facing_up: Test code blocks in your READMEs
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -1442,7 +1443,6 @@
 
 ## others 
 
-- [authlib/joserfc](https://github.com/authlib/joserfc) - Implementations of JOSE RFCs in Python
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [lcbro/lcbro-mcp](https://github.com/lcbro/lcbro-mcp) - Low Cost Browsing MCP Server - MCP server aggregator for browser automation, parsing and optional LLM data cleaning using Playwright.
