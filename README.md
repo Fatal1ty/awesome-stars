@@ -347,6 +347,7 @@
 
 ## Python 
 
+- [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [lepture/mistune](https://github.com/lepture/mistune) - A fast yet powerful Python Markdown parser with renderers and plugins.
 - [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
 - [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - :page_facing_up: Test code blocks in your READMEs
