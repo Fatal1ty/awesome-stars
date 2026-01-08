@@ -162,6 +162,7 @@
 - [productivity](#productivity)
 - [programming](#programming)
 - [project-management](#project-management)
+- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -1819,6 +1820,10 @@
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
 
+## prompt-engineering 
+
+- [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
+
 ## publishing 
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
@@ -1893,7 +1898,7 @@
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [Fatal1ty/openapify](https://github.com/Fatal1ty/openapify) - Framework agnostic OpenAPI Specification generation for code lovers
 - [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
-- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID
+- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Fast, drop-in replacement for Python's uuid module, powered by Rust.
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
@@ -2215,7 +2220,7 @@
 - [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
 - [cnpryer/huak](https://github.com/cnpryer/huak) - My experimental Python package manager.
 - [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
-- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID
+- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Fast, drop-in replacement for Python's uuid module, powered by Rust.
 - [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [KenanHanke/rbloom](https://github.com/KenanHanke/rbloom) - A fast, simple and lightweight Bloom filter library for Python, implemented in Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
