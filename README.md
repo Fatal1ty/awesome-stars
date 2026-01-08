@@ -453,7 +453,7 @@
 - [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
 - [Fatal1ty/openapify](https://github.com/Fatal1ty/openapify) - Framework agnostic OpenAPI Specification generation for code lovers
 - [fastuuid/fastuuid](https://github.com/fastuuid/fastuuid) - FastUUID is a library which provides CPython bindings to Rust's UUID library
-- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Python bindings to Rust UUID
+- [aminalaee/uuid-utils](https://github.com/aminalaee/uuid-utils) - Fast, drop-in replacement for Python's uuid module, powered by Rust.
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
 - [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
