@@ -1517,6 +1517,7 @@
 
 ## others 
 
+- [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [prostomarkeloff/funcai](https://github.com/prostomarkeloff/funcai) - Intelligence is a function.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
 - [lcbro/lcbro-mcp](https://github.com/lcbro/lcbro-mcp) - Low Cost Browsing MCP Server - MCP server aggregator for browser automation, parsing and optional LLM data cleaning using Playwright.
