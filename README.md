@@ -33,7 +33,6 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SWIG](#swig)
@@ -206,7 +205,7 @@
 - [filhodanuvem/gitql](https://github.com/filhodanuvem/gitql) - 💊 A git query language
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [meshbird/meshbird](https://github.com/meshbird/meshbird) - Distributed private networking
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [davecheney/httpstat](https://github.com/davecheney/httpstat) - It's like curl -v, with colours.
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
@@ -348,6 +347,8 @@
 
 ## Python 
 
+- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
+- [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [prostomarkeloff/funcai](https://github.com/prostomarkeloff/funcai) - Intelligence is a function.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
 - [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
@@ -755,10 +756,6 @@
 
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
@@ -833,6 +830,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [MarvAmBass/docker-versatile-postfix](https://github.com/MarvAmBass/docker-versatile-postfix) - A Docker Postfix, designed to be as versatile as possible. Just a SMTP Server with SMTP Auth and possibility to receive emails
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [ModusCreateOrg/slow](https://github.com/ModusCreateOrg/slow) - slow down a Linux network device to lower speeds (T1, 3G, 28.8k modem, etc)
 - [squeaky-pl/portable-pypy](https://github.com/squeaky-pl/portable-pypy) - Portable 64 bit x86 PyPy binaries for many Linux distributions.
 - [JBakamovic/yavide](https://github.com/JBakamovic/yavide) - Modern C/C++ integrated development environment
