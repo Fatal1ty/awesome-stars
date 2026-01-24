@@ -244,6 +244,7 @@
 - [APIs-guru/awesome-openapi3](https://github.com/APIs-guru/awesome-openapi3) - 😎 A list of awesome projects related to OpenAPI 3.0.x, curated by the community
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [Darin755/browser-linux](https://github.com/Darin755/browser-linux) - Linux, in your browser
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [jasonmayes/Real-Time-Person-Removal](https://github.com/jasonmayes/Real-Time-Person-Removal) - Removing people from complex backgrounds in real time using TensorFlow.js in the web browser
 - [alyssaxuu/flowy](https://github.com/alyssaxuu/flowy) - The minimal javascript library to create flowcharts ✨
@@ -347,6 +348,8 @@
 
 ## Python 
 
+- [ogrodnek/pyview](https://github.com/ogrodnek/pyview) - A Python implementation of Phoenix LiveView
+- [flet-dev/flet](https://github.com/flet-dev/flet) - Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [prostomarkeloff/funcai](https://github.com/prostomarkeloff/funcai) - Intelligence is a function.
@@ -505,7 +508,6 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [python-injector/injector](https://github.com/python-injector/injector) - Python dependency injection framework, inspired by Guice
 - [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [jcrist/msgspec](https://github.com/jcrist/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
