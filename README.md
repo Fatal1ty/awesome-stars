@@ -46,6 +46,7 @@
 
 ## C 
 
+- [mosquito/pybtrfs](https://github.com/mosquito/pybtrfs) - Native Python bindings for btrfs — create filesystems, manage subvolumes and snapshots, mount and unmount. No shell commands, no subprocess, no runtime dependencies beyond libc.
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
