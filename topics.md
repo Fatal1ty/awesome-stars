@@ -691,7 +691,6 @@
 
 ## deep-learning 
 
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
@@ -1527,6 +1526,7 @@
 
 ## others 
 
+- [mosquito/pybtrfs](https://github.com/mosquito/pybtrfs) - Native Python bindings for btrfs — create filesystems, manage subvolumes and snapshots, mount and unmount. No shell commands, no subprocess, no runtime dependencies beyond libc.
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
 - [prostomarkeloff/funcai](https://github.com/prostomarkeloff/funcai) - Intelligence is a function.
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
