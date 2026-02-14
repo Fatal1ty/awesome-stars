@@ -154,7 +154,7 @@
 - [xataio/pgroll](https://github.com/xataio/pgroll) - PostgreSQL zero-downtime migrations made easy
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [go-task/task](https://github.com/go-task/task) - A fast, cross-platform build tool inspired by Make, designed for modern workflows.
@@ -773,7 +773,7 @@
 
 ## Rust 
 
-- [lukehinds/nono](https://github.com/lukehinds/nono) - A secure, kernel-enforced capability sandbox for AI agents. It's the opposite to YOLO
+- [always-further/nono](https://github.com/always-further/nono) - Secure, kernel-enforced sandbox for AI agents, MCP and LLM workloads. Capability-based isolation with secure key management and blocking of destructive actions in a zero-trust environment.
 - [TrustTunnel/TrustTunnel](https://github.com/TrustTunnel/TrustTunnel) - Modern, fast and obfuscated VPN protocol
 - [psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
