@@ -126,6 +126,7 @@
 
 ## Go 
 
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
