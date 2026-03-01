@@ -1547,6 +1547,7 @@
 
 ## others 
 
+- [lava-sh/yaml-rs](https://github.com/lava-sh/yaml-rs) - A High-Performance YAML v1.2 Parser for Python written in Rust🦀
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
 - [mosquito/pybtrfs](https://github.com/mosquito/pybtrfs) - Native Python bindings for btrfs — create filesystems, manage subvolumes and snapshots, mount and unmount. No shell commands, no subprocess, no runtime dependencies beyond libc.
