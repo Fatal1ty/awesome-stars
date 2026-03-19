@@ -384,6 +384,7 @@
 
 ## bash 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
@@ -1858,6 +1859,7 @@
 
 ## powershell 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 
 ## privacy 
@@ -1911,7 +1913,7 @@
 - [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 - [BrianPugh/cyclopts](https://github.com/BrianPugh/cyclopts) - Intuitive, easy CLIs based on python type hints.
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Lint your Python architecture.
-- [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
+- [osprey-oss/deptry](https://github.com/osprey-oss/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [nschloe/pytest-codeblocks](https://github.com/nschloe/pytest-codeblocks) - :page_facing_up: Test code blocks in your READMEs
 - [ilevkivskyi/typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module
 - [pyper-dev/pyper](https://github.com/pyper-dev/pyper) - Concurrent Python made simple
@@ -2282,10 +2284,11 @@
 
 ## rust 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
-- [fpgmaas/deptry](https://github.com/fpgmaas/deptry) - Find unused, missing and transitive dependencies in a Python project.
+- [osprey-oss/deptry](https://github.com/osprey-oss/deptry) - Find unused, missing and transitive dependencies in a Python project.
 - [psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️
 - [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support.
@@ -2736,6 +2739,7 @@
 
 ## zsh 
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [bibendi/dip](https://github.com/bibendi/dip) - The dip is a CLI dev–tool that provides native-like interaction with a Dockerized application.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
