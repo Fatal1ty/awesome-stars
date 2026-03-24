@@ -46,12 +46,13 @@
 
 ## C 
 
+- [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector) - SQLite-Vector is a cross-platform, ultra-efficient SQLite extension that brings vector search capabilities to your embedded database.
 - [mosquito/pybtrfs](https://github.com/mosquito/pybtrfs) - Native Python bindings for btrfs — create filesystems, manage subvolumes and snapshots, mount and unmount. No shell commands, no subprocess, no runtime dependencies beyond libc.
 - [ish-app/ish](https://github.com/ish-app/ish) - Linux shell for iOS
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - ★ Fullfast transactional key-value memory-mapped B-Tree storage engine without WAL ★ Surpasses the legendary LMDB in terms of reliability, features and performance. ★ Used by half of Ethereum and many
+- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - ★ Fullfast transactional key-value memory-mapped B-Tree storage engine without WAL ★ Widely used by Ethereum, cryptocurrency industry and thousands of other projects ★ Surpasses the legendary LMDB in 
 - [jcrist/quickle](https://github.com/jcrist/quickle) - A quicker pickle :cucumber:
 - [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module (C extension and plain python) implementing Aho-Corasick algorithm
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
@@ -826,6 +827,7 @@
 - [yujqiao/catproc](https://github.com/yujqiao/catproc) - Print the output of a running process
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
+- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -915,7 +917,6 @@
 - [stoplightio/elements](https://github.com/stoplightio/elements) - Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [covidpass-org/covidpass](https://github.com/covidpass-org/covidpass) - Web app for adding EU Digital COVID Certificates to your wallet apps
-- [cs01/termpair](https://github.com/cs01/termpair) - View and control terminals from your browser with end-to-end encryption 🔒
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [akveo/ngx-admin](https://github.com/akveo/ngx-admin) - Customizable admin dashboard template based on Angular 10+
 - [qawolf/qawolf](https://github.com/qawolf/qawolf) - 🐺 Create browser tests 10x faster
