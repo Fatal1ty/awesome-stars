@@ -66,6 +66,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -262,7 +263,7 @@
 ## ai-agents 
 
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
-- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox and agent security CLI and SDKs. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agent
+- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -716,7 +717,6 @@
 ## deep-learning 
 
 - [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art t
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [ai-forever/ru-gpts](https://github.com/ai-forever/ru-gpts) - Russian GPT3 models.
@@ -773,6 +773,14 @@
 ## discord 
 
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
+
+## distributed-systems 
+
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
+- [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+- [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus.
+- [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
 
 ## django 
 
@@ -1350,7 +1358,6 @@
 
 - [louisfb01/start-machine-learning](https://github.com/louisfb01/start-machine-learning) - A complete guide to start and improve in machine learning (ML), artificial intelligence (AI) in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art t
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [explosion/thinc](https://github.com/explosion/thinc) - 🔮 A refreshing functional take on deep learning, compatible with your favorite libraries
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
 - [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
@@ -1425,7 +1432,7 @@
 
 ## mcp 
 
-- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox and agent security CLI and SDKs. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agent
+- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -1729,7 +1736,6 @@
 - [mkaz/termgraph](https://github.com/mkaz/termgraph) - A Python command-line and library that draws basic graphs in the terminal
 - [pnuckowski/aioresponses](https://github.com/pnuckowski/aioresponses) - Aioresponses is a helper for mock/fake web requests in python aiohttp package.
 - [axiak/fuzzyset](https://github.com/axiak/fuzzyset) - A simple fuzzy matching set for python strings
-- [heidihoward/distributed-consensus-reading-list](https://github.com/heidihoward/distributed-consensus-reading-list) - A list of papers about distributed consensus.
 - [PiMaker/Teletun](https://github.com/PiMaker/Teletun) - IP over Telegram, because why not.
 - [more-itertools/more-itertools](https://github.com/more-itertools/more-itertools) - More routines for operating on iterables, beyond itertools
 - [aio-libs/async-timeout](https://github.com/aio-libs/async-timeout) - asyncio-compatible timeout class
@@ -1956,7 +1962,6 @@
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [tarpas/pytest-testmon](https://github.com/tarpas/pytest-testmon) - Selects tests affected by changed files. Executes the right tests first. Continuous test runner when used with pytest-watch.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
-- [serengil/deepface](https://github.com/serengil/deepface) - A Lightweight Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Library for Python
 - [jwbargsten/pytest-archon](https://github.com/jwbargsten/pytest-archon) - Rule your architecture like a real developer
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
@@ -2344,7 +2349,7 @@
 
 ## security 
 
-- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox and agent security CLI and SDKs. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agent
+- [always-further/nono](https://github.com/always-further/nono) - Kernel-enforced agent sandbox. Capability-based isolation with secure key management, atomic rollback, cryptographic immutable audit chain of provenance. Run your agents in a zero-trust environment.
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [nyudenkov/pysentry](https://github.com/nyudenkov/pysentry) - 🐍 Scan your Python dependencies for known security vulnerabilities with Rust-powered scanner
