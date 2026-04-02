@@ -864,6 +864,7 @@
 
 ## Swift 
 
+- [EstamelGG/EVE-Nexus](https://github.com/EstamelGG/EVE-Nexus) - 
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
