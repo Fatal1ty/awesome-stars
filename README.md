@@ -356,7 +356,7 @@
 - [Fatal1ty/maybe-missing](https://github.com/Fatal1ty/maybe-missing) - A tiny typed sentinel for distinguishing None from not provided
 - [lava-sh/yaml-rs](https://github.com/lava-sh/yaml-rs) - A High-Performance YAML v1.2 Parser for Python written in Rust🦀
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight OpenClaw"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [executablebooks/markdown-it-py](https://github.com/executablebooks/markdown-it-py) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed. Now in Python!
 - [rohaquinlop/complexipy](https://github.com/rohaquinlop/complexipy) - Blazingly fast cognitive complexity analysis for Python, written in Rust.
 - [ogrodnek/pyview](https://github.com/ogrodnek/pyview) - A Python implementation of Phoenix LiveView
