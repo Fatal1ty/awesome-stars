@@ -865,6 +865,7 @@
 
 ## Swift 
 
+- [mosquito/whisperer](https://github.com/mosquito/whisperer) - Local voice-to-text for any Mac app - push-to-talk via Local STT engine on Apple Neural Engine
 - [EstamelGG/EVE-Nexus](https://github.com/EstamelGG/EVE-Nexus) - 
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
