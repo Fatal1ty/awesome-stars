@@ -247,7 +247,7 @@
 ## ai 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
@@ -338,7 +338,7 @@
 
 ## atom 
 
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [sergio-fry/youtube-fetcher](https://github.com/sergio-fry/youtube-fetcher) - :tv: Youtube Podcasting :headphones:
 - [MagicStack/MagicPython](https://github.com/MagicStack/MagicPython) - Cutting edge Python syntax highlighter for Sublime Text, Atom and Visual Studio Code. Used by GitHub to highlight your Python code!
 
@@ -425,7 +425,7 @@
 ## bot 
 
 - [Kaliiiiiiiiii-Vinyzu/patchright](https://github.com/Kaliiiiiiiiii-Vinyzu/patchright) - Undetected version of the Playwright testing and automation library.
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [BitBotFactory/MikaLendingBot](https://github.com/BitBotFactory/MikaLendingBot) - Automated lending on Cryptocurrency exchanges Poloniex and Bitfinex
 
@@ -815,7 +815,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [aerokube/selenoid](https://github.com/aerokube/selenoid) - Selenium Hub successor running browsers within containers. Scalable, immutable, self hosted Selenium-Grid on any platform with single binary.
@@ -1340,7 +1340,7 @@
 ## llm 
 
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [rivet-dev/agent-os](https://github.com/rivet-dev/agent-os) - A portable open-source operating system for agents. ~6 ms coldstarts, 32x cheaper than sandboxes. Powered by WebAssembly and V8 isolates.
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - Open-source AI coworker, with memory
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
@@ -1456,7 +1456,7 @@
 
 ## mcp 
 
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [always-further/nono](https://github.com/always-further/nono) - nono - a capability-based, multiplexing sandbox tool, built for developers - lift'n'shift seamless path to prod. Run agents securely without needing any additional infra, zero setup, zero latency.
 - [PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
@@ -1947,7 +1947,7 @@
 
 ## python 
 
-- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+- [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [mosquito/argclass](https://github.com/mosquito/argclass) - Declarative CLI parser with type hints, config files, and environment variables.
 - [Fatal1ty/maybe-missing](https://github.com/Fatal1ty/maybe-missing) - A tiny typed sentinel for distinguishing None from not provided
 - [scrapy/scrapy](https://github.com/scrapy/scrapy) - Scrapy, a fast high-level web crawling & scraping framework for Python.
@@ -1968,7 +1968,7 @@
 - [omnilib/aql](https://github.com/omnilib/aql) - asyncio query generator
 - [python-openapi/openapi-spec-validator](https://github.com/python-openapi/openapi-spec-validator) - OpenAPI Spec Validator is a CLI, pre-commit hook and python package that validates OpenAPI Specs against the OpenAPI 2.0 (aka Swagger), OpenAPI 3.0 and OpenAPI 3.1 specification.
 - [kython28/leviathan](https://github.com/kython28/leviathan) - A lightning-fast Zig-powered event loop for Python's asyncio.
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - LM Studio Apple MLX engine
 - [domdfcoding/pyupgrade-directories](https://github.com/domdfcoding/pyupgrade-directories) - Run pyupgrade on all files in a directory, and optionally recursively.
 - [aamalev/rsjwt](https://github.com/aamalev/rsjwt) - 
@@ -2408,7 +2408,7 @@
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2474,7 +2474,7 @@
 ## sqlite 
 
 - [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQL
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [simonw/sqlite-utils](https://github.com/simonw/sqlite-utils) - Python CLI utility and library for manipulating SQLite databases
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files.
@@ -2535,12 +2535,12 @@
 
 ## telegram 
 
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
 
 ## telegram-bot 
 
-- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience
+- [Rongronggg9/RSS-to-Telegram-Bot](https://github.com/Rongronggg9/RSS-to-Telegram-Bot) - A Telegram RSS bot that cares about your reading experience (calling for new maintainers: https://github.com/Rongronggg9/RSS-to-Telegram-Bot/issues/747)
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 
 ## tensorflow 
