@@ -241,6 +241,7 @@
 
 ## JavaScript 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [OAI/Overlay-Specification](https://github.com/OAI/Overlay-Specification) - The OAI Overlay Specification
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
@@ -355,7 +356,6 @@
 
 ## Python 
 
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [mosquito/argclass](https://github.com/mosquito/argclass) - Declarative CLI parser with type hints, config files, and environment variables.
 - [Fatal1ty/maybe-missing](https://github.com/Fatal1ty/maybe-missing) - A tiny typed sentinel for distinguishing None from not provided
