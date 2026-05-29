@@ -359,7 +359,7 @@
 
 ## Python 
 
-- [oek1ng/zspec](https://github.com/oek1ng/zspec) - 
+- [zlibs-community/zspec](https://github.com/zlibs-community/zspec) - 
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [mosquito/argclass](https://github.com/mosquito/argclass) - Declarative CLI parser with type hints, config files, and environment variables.
 - [Fatal1ty/maybe-missing](https://github.com/Fatal1ty/maybe-missing) - A tiny typed sentinel for distinguishing None from not provided
