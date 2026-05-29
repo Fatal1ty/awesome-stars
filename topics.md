@@ -1640,7 +1640,7 @@
 
 ## others 
 
-- [oek1ng/zspec](https://github.com/oek1ng/zspec) - 
+- [zlibs-community/zspec](https://github.com/zlibs-community/zspec) - 
 - [pyrorhythm/make-commits-great-again](https://github.com/pyrorhythm/make-commits-great-again) - 
 - [sahil-shubham/bhatti](https://github.com/sahil-shubham/bhatti) - Self-Hostable MicroVMs for your Agents
 - [mosquito/whisperer](https://github.com/mosquito/whisperer) - Local voice-to-text for any Mac app - push-to-talk via Local STT engine on Apple Neural Engine
