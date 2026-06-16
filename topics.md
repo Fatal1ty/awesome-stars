@@ -1170,6 +1170,7 @@
 ## html 
 
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
+- [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
 - [thombashi/pytablewriter](https://github.com/thombashi/pytablewriter) - pytablewriter is a Python library to write a table in various formats: AsciiDoc / CSV / Elasticsearch / HTML / JavaScript / JSON / LaTeX / LDJSON / LTSV / Markdown / MediaWiki / NumPy / Excel / Pandas
 - [lexborisov/Modest](https://github.com/lexborisov/Modest) - Modest is a fast HTML renderer implemented as a pure C99 library with no outside dependencies.
@@ -1690,7 +1691,7 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-- [pcarrier/srv.us](https://github.com/pcarrier/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
+- [xmit-co/srv.us](https://github.com/xmit-co/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
 - [pkg-tool/paster](https://github.com/pkg-tool/paster) - Simple Intelliji plugin to copy files and folders in clipboard
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
@@ -1724,7 +1725,6 @@
 - [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
 - [osm-search/Nominatim](https://github.com/osm-search/Nominatim) - Open Source search based on OpenStreetMap data
 - [ChrisMBarr/recruiting-hell](https://github.com/ChrisMBarr/recruiting-hell) - A collection of terrible and weird interactions with recruiters, job descriptions, questions, and technical assessments
-- [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [patrick91/links-demo](https://github.com/patrick91/links-demo) - Sample package for testing PyPI links.
 - [posit-dev/py-shiny](https://github.com/posit-dev/py-shiny) - Shiny for Python
 - [mishamsk/pyoak](https://github.com/mishamsk/pyoak) - Library for building and working with arbitrary ASTs on top of dataclasses
@@ -2033,6 +2033,7 @@
 - [TkTech/pysimdjson](https://github.com/TkTech/pysimdjson) - Python bindings for the simdjson project.
 - [aamalev/redis-rs-py](https://github.com/aamalev/redis-rs-py) - Python package from redis-rs
 - [mckinsey/vizro](https://github.com/mckinsey/vizro) - Vizro is a low-code toolkit for building high-quality data visualization apps.
+- [mosquito/tagz](https://github.com/mosquito/tagz) - tagz is a html tags builder
 - [pypa/cibuildwheel](https://github.com/pypa/cibuildwheel) - 🎡 Build Python wheels for all the platforms with minimal configuration.
 - [hynek/svcs](https://github.com/hynek/svcs) - A Flexible Service Locator for Python.
 - [life4/deal](https://github.com/life4/deal) - 🤝 Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
