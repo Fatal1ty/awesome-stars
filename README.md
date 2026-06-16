@@ -143,7 +143,7 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [xjasonlyu/tun2socks](https://github.com/xjasonlyu/tun2socks) - tun2socks - powered by gVisor TCP/IP stack
-- [pcarrier/srv.us](https://github.com/pcarrier/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
+- [xmit-co/srv.us](https://github.com/xmit-co/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
