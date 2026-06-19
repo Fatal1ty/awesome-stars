@@ -52,7 +52,7 @@
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [orangeduck/Cello](https://github.com/orangeduck/Cello) - Higher level programming in C
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - ★ Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
+- [Mithril-mine/libmdbx](https://github.com/Mithril-mine/libmdbx) - Fastfull embedded transactional key-value storage engine ★ Surpasses the legendary LMDB in reliability, capabilities and performance ★ Used in hundreds of open source projects, including Ethereum.
 - [jcrist/quickle](https://github.com/jcrist/quickle) - A quicker pickle :cucumber:
 - [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module (C extension and plain python) implementing Aho-Corasick algorithm
 - [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
