@@ -72,7 +72,7 @@
 - [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [redpanda-data/redpanda](https://github.com/redpanda-data/redpanda) - Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!
 - [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
@@ -104,7 +104,7 @@
 ## Clojure 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 
 ## Cython 
 
@@ -861,7 +861,7 @@
 - [wanderer-industries/community-edition](https://github.com/wanderer-industries/community-edition) - Example Docker Compose setup for hosting Wanderer Community Edition
 - [himadieievsv/redis-cluster](https://github.com/himadieievsv/redis-cluster) - Minimalistic Redis Cluster Image for Docker.
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Amazon Linux, Alpine and Raspberry Pi. Includes client config and 
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 - [MarvAmBass/docker-versatile-postfix](https://github.com/MarvAmBass/docker-versatile-postfix) - A Docker Postfix, designed to be as versatile as possible. Just a SMTP Server with SMTP Auth and possibility to receive emails
