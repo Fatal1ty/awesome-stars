@@ -270,7 +270,7 @@
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [Vinyzu/Botright](https://github.com/Vinyzu/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captc
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -1995,6 +1995,7 @@
 
 ## python 
 
+- [frenck/YAMLRocks](https://github.com/frenck/YAMLRocks) - Rock-solid YAML for Python, written in Rust.
 - [wjakob/nanobind](https://github.com/wjakob/nanobind) - nanobind: tiny and efficient C++/Python bindings
 - [blackwell-systems/gcf-python](https://github.com/blackwell-systems/gcf-python) - GCF Python implementation. 100% LLM comprehension on every frontier model. 50-92% fewer tokens than JSON. 43B+ round-trips verified. Zero dependencies.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -2250,6 +2251,7 @@
 
 ## python3 
 
+- [frenck/YAMLRocks](https://github.com/frenck/YAMLRocks) - Rock-solid YAML for Python, written in Rust.
 - [ilevkivskyi/typing_inspect](https://github.com/ilevkivskyi/typing_inspect) - Runtime inspection utilities for Python typing module
 - [psqlpy-python/psqlpy](https://github.com/psqlpy-python/psqlpy) - Asynchronous Python PostgreSQL driver written in Rust
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects
@@ -2376,6 +2378,7 @@
 
 ## rust 
 
+- [frenck/YAMLRocks](https://github.com/frenck/YAMLRocks) - Rock-solid YAML for Python, written in Rust.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machines.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
