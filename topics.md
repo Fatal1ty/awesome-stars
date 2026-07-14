@@ -1230,7 +1230,6 @@
 ## instagram 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 
 ## ios 
 
@@ -1667,7 +1666,7 @@
 - [pyrorhythm/make-commits-great-again](https://github.com/pyrorhythm/make-commits-great-again) - 
 - [sahil-shubham/bhatti](https://github.com/sahil-shubham/bhatti) - Self-Hostable MicroVMs for your Agents
 - [mosquito/whisperer](https://github.com/mosquito/whisperer) - Local voice-to-text for any Mac app - push-to-talk via Local STT engine on Apple Neural Engine
-- [EstamelGG/EVE-Nexus](https://github.com/EstamelGG/EVE-Nexus) - 
+- [EstamelGG/EVE-Tritanium](https://github.com/EstamelGG/EVE-Tritanium) - 
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [sqliteai/sqlite-vector](https://github.com/sqliteai/sqlite-vector) - SQLite-Vector is a cross-platform, ultra-efficient SQLite extension that brings vector search capabilities to your embedded database.
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
