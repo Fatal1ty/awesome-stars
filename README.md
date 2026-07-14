@@ -535,7 +535,6 @@
 - [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [ormar-orm/ormar](https://github.com/ormar-orm/ormar) - python async orm with fastapi in mind and pydantic validation
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
-- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gistart/asyncio-pool](https://github.com/gistart/asyncio-pool) - Pool for asyncio with multiprocessing, threading and gevent -like interface
 - [hustcc/timeago](https://github.com/hustcc/timeago) - :hourglass: Simple library used to format datetime with `*** time ago` statement. eg: "3 hours ago".
@@ -880,7 +879,7 @@
 ## Swift 
 
 - [mosquito/whisperer](https://github.com/mosquito/whisperer) - Local voice-to-text for any Mac app - push-to-talk via Local STT engine on Apple Neural Engine
-- [EstamelGG/EVE-Nexus](https://github.com/EstamelGG/EVE-Nexus) - 
+- [EstamelGG/EVE-Tritanium](https://github.com/EstamelGG/EVE-Tritanium) - 
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ Lightweight Markdown app to help you write great sentences.
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶
