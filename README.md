@@ -535,6 +535,7 @@
 - [msgspec/msgspec](https://github.com/msgspec/msgspec) - A fast serialization and validation library, with builtin support for JSON, MessagePack, YAML, and TOML
 - [ormar-orm/ormar](https://github.com/ormar-orm/ormar) - python async orm with fastapi in mind and pydantic validation
 - [unit8co/darts](https://github.com/unit8co/darts) - A python library for user-friendly forecasting and anomaly detection on time series.
+- [subzeroid/instagrapi](https://github.com/subzeroid/instagrapi) - 🔥 The fastest and powerful Python library for Instagram Private API 2026 with HikerAPI SaaS
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [gistart/asyncio-pool](https://github.com/gistart/asyncio-pool) - Pool for asyncio with multiprocessing, threading and gevent -like interface
 - [hustcc/timeago](https://github.com/hustcc/timeago) - :hourglass: Simple library used to format datetime with `*** time ago` statement. eg: "3 hours ago".
@@ -794,7 +795,7 @@
 ## Rust 
 
 - [frenck/YAMLRocks](https://github.com/frenck/YAMLRocks) - Rock-solid YAML for Python, written in Rust.
-- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machines.
+- [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
