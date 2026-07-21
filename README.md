@@ -606,7 +606,7 @@
 - [pinetr2e/napkin](https://github.com/pinetr2e/napkin) - Python as DSL for writing PlantUML sequence diagrams
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
 - [pymorphy2/pymorphy2](https://github.com/pymorphy2/pymorphy2) - Morphological analyzer / inflection engine for Russian and Ukrainian languages.
-- [abusix/ahocorapy](https://github.com/abusix/ahocorapy) - Pure python Aho-Corasick library.
+- [FrederikP/ahocorapy](https://github.com/FrederikP/ahocorapy) - Pure python Aho-Corasick library.
 - [bogdandm/json2python-models](https://github.com/bogdandm/json2python-models) - Generate Python model classes (pydantic, attrs, dataclasses) based on JSON datasets with typing module support
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump versio
 - [Fatal1ty/tinkoff-api](https://github.com/Fatal1ty/tinkoff-api) - Python Tinkoff API client for asyncio and humans
