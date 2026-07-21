@@ -297,7 +297,7 @@
 
 ## algorithm 
 
-- [abusix/ahocorapy](https://github.com/abusix/ahocorapy) - Pure python Aho-Corasick library.
+- [FrederikP/ahocorapy](https://github.com/FrederikP/ahocorapy) - Pure python Aho-Corasick library.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [anthonynsimon/bild](https://github.com/anthonynsimon/bild) - Image processing algorithms in pure Go
 
