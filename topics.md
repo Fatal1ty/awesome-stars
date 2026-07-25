@@ -1666,6 +1666,7 @@
 
 ## others 
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [huggingface/tau](https://github.com/huggingface/tau) - A Python port of Pi’s minimalist coding agent.
 - [zlibs-community/zspec](https://github.com/zlibs-community/zspec) - 
 - [pyrorhythm/make-commits-great-again](https://github.com/pyrorhythm/make-commits-great-again) - 
