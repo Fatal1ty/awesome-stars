@@ -800,6 +800,7 @@
 
 ## Rust 
 
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [frenck/YAMLRocks](https://github.com/frenck/YAMLRocks) - Rock-solid YAML for Python, written in Rust.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - Portable, lightweight, self-contained virtual machine.
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
@@ -886,6 +887,7 @@
 
 ## Swift 
 
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [mosquito/whisperer](https://github.com/mosquito/whisperer) - Local voice-to-text for any Mac app - push-to-talk via Local STT engine on Apple Neural Engine
 - [EstamelGG/EVE-Tritanium](https://github.com/EstamelGG/EVE-Tritanium) - 
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
