@@ -695,7 +695,7 @@
 - [bigchaindb/bigchaindb](https://github.com/bigchaindb/bigchaindb) - Meet BigchainDB. The blockchain database.
 - [Tinche/aiofiles](https://github.com/Tinche/aiofiles) - File support for asyncio
 - [daviddrysdale/python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) - Python port of Google's libphonenumber
-- [vulnersCom/getsploit](https://github.com/vulnersCom/getsploit) - Command line utility for searching and downloading exploits
+- [vulnersCom/getsploit](https://github.com/vulnersCom/getsploit) - Search and download public exploits from the Vulners database — online, or fully offline from a local SQLite FTS5 index.
 - [horazont/aioxmpp](https://github.com/horazont/aioxmpp) - An XMPP library for use with Python 3.5+ asyncio.
 - [python-odin/odin](https://github.com/python-odin/odin) - Data-structure definition/validation/traversal, mapping and serialisation toolkit for Python
 - [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
