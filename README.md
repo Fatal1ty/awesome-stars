@@ -208,7 +208,7 @@
 - [inetaf/tcpproxy](https://github.com/inetaf/tcpproxy) - Proxy TCP connections based on static rules, HTTP Host headers, and SNI server names (Go package or binary)
 - [esimov/diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [jorisroovers/memclient](https://github.com/jorisroovers/memclient) - Simple memcached commandline client written in Go
-- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
+- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV, TSV and Excel files into a single self-contained HTML page with search, filters, and sorting
 - [rodaine/table](https://github.com/rodaine/table) - Go CLI Table Generator
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [nsqio/nsq](https://github.com/nsqio/nsq) - A realtime distributed messaging platform
