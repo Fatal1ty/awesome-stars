@@ -1726,6 +1726,7 @@
 
 ## others 
 
+- [heyman333/atelier-ui](https://github.com/heyman333/atelier-ui) - atelier-ui skills for ai agents
 - [jeffhajewski/latticedb](https://github.com/jeffhajewski/latticedb) - Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [mosquito/rustruct](https://github.com/mosquito/rustruct) - A Rust core for parsing and building binary wire formats from Python
