@@ -2257,7 +2257,7 @@
 - [Fatal1ty/aiobroker](https://github.com/Fatal1ty/aiobroker) - 
 - [python-trio/purerpc](https://github.com/python-trio/purerpc) - Native, async Python gRPC client and server implementation supporting asyncio, uvloop, and trio
 - [ageitgey/face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line
-- [perseas/Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities for Postgres database schema versioning.
+- [perseas/Pyrseas](https://github.com/perseas/Pyrseas) - Provides utilities for Postgres database schema versioning. This is being superseded by work done at https://codeberg.org/perseas/perseid.
 - [reagento/adaptix](https://github.com/reagento/adaptix) - An extremely flexible and configurable data model conversion library.
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
