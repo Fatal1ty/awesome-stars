@@ -1792,7 +1792,7 @@
 - [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
 - [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager
 - [blackmatrix7/ios_rule_script](https://github.com/blackmatrix7/ios_rule_script) - 分流规则、重写写规则及脚本。
-- [xmit-co/srv.us](https://github.com/xmit-co/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
+- [xmit-dev/srv.us](https://github.com/xmit-dev/srv.us) - ssh to expose local HTTP services online, CLI pastebin, etc.
 - [pkg-tool/paster](https://github.com/pkg-tool/paster) - Simple Intelliji plugin to copy files and folders in clipboard
 - [charmbracelet/mods](https://github.com/charmbracelet/mods) - AI on the command line
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
