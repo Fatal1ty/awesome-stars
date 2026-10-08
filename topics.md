@@ -902,7 +902,7 @@
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [voidauth/voidauth](https://github.com/voidauth/voidauth) - Single Sign-On for Your Self-Hosted Universe
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [swiftwave-org/swiftwave](https://github.com/swiftwave-org/swiftwave) - Self-hosted lightweight PaaS solution to deploy and manage your applications on any VPS [Your own self-hosted Heroku, Vercel]
@@ -1484,7 +1484,7 @@
 ## mac 
 
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
@@ -1517,7 +1517,7 @@
 - [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [steipete/RepoBar](https://github.com/steipete/RepoBar) - Show status of GitHub Repos right in your menu bar and terminal: CI, Issues, Pull Requests, Latest Release.
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
@@ -2477,6 +2477,7 @@
 
 ## rust 
 
+- [storytold/photocraft](https://github.com/storytold/photocraft) - An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [frenck/YAMLRocks](https://github.com/frenck/YAMLRocks) - Rock-solid YAML for Python, written in Rust.
 - [smol-machines/smolvm](https://github.com/smol-machines/smolvm) - An embeddable, portable, branchable virtual machine to safely run Agents locally.
