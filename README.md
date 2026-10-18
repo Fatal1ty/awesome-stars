@@ -896,7 +896,7 @@
 
 ## Swift 
 
-- [Fatal1ty/WindowGaffer](https://github.com/Fatal1ty/WindowGaffer) - Bring the right window forward
+- [Fatal1ty/WindowGaffer](https://github.com/Fatal1ty/WindowGaffer) - A macOS menu bar app for bringing specific windows to the front with global keyboard shortcuts and clickable on-screen labels
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
