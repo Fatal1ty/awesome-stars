@@ -367,6 +367,7 @@
 
 ## Python 
 
+- [anonnerdfrenzy/survival-llm](https://github.com/anonnerdfrenzy/survival-llm) - A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.
 - [wemake-services/django-modern-rest](https://github.com/wemake-services/django-modern-rest) - Modern REST framework for Django with types and async support!
 - [dj-bolt/django-bolt](https://github.com/dj-bolt/django-bolt) - The fastest Python web framework, built on Django. Rust (Actix Web) HTTP server + async typed handlers + msgspec, with the full Django ORM, Admin, middleware and auth. 300k+ req/s, no gunicorn/uvicorn
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
