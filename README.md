@@ -428,6 +428,7 @@
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
+- [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [vinyzu-archive/Botright](https://github.com/vinyzu-archive/Botright) - Botright, the most advance undetected, fingerprint-changing, captcha-solving, open-source automation framework. Build on Playwright, its as easy to use as it is to extend your code. Solving your Captc
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [mosquito/markdown-pytest](https://github.com/mosquito/markdown-pytest) - A simple module to test your documentation examples with pytest
@@ -899,6 +900,7 @@
 
 ## Swift 
 
+- [Fatal1ty/ImpactBar](https://github.com/Fatal1ty/ImpactBar) - A native macOS combat-log overlay for EVE Online turret hit quality and energy neutralizer tracking.
 - [Fatal1ty/WindowGaffer](https://github.com/Fatal1ty/WindowGaffer) - A macOS menu bar app for bringing specific windows to the front with global keyboard shortcuts and clickable on-screen labels
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
 - [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
