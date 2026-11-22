@@ -110,7 +110,6 @@
 ## Cython 
 
 - [wbolster/plyvel](https://github.com/wbolster/plyvel) - Plyvel, a fast and feature-rich Python interface to LevelDB
-- [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python based on marisa-trie C++ library.
 - [MagicStack/uvloop](https://github.com/MagicStack/uvloop) - Ultra fast asyncio event loop.
 
 ## Dockerfile 
@@ -672,6 +671,7 @@
 - [uqfoundation/dill](https://github.com/uqfoundation/dill) - serialize all of Python
 - [lidatong/dataclasses-json](https://github.com/lidatong/dataclasses-json) - Easily serialize Data Classes to and from JSON
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
+- [pytries/marisa-trie](https://github.com/pytries/marisa-trie) - Static memory-efficient Trie-like structures for Python based on marisa-trie C++ library.
 - [zhebrak/raftos](https://github.com/zhebrak/raftos) - Asynchronous replication framework for distributed Python projects
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
 - [s-knibbs/dataclasses-jsonschema](https://github.com/s-knibbs/dataclasses-jsonschema) - JSON schema generation from dataclasses
