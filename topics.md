@@ -1291,6 +1291,7 @@
 
 - [mountain-loop/yaak](https://github.com/mountain-loop/yaak) - The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬
 - [rathole-org/rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+- [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1546,10 +1547,12 @@
 
 ## macos 
 
+- [Fatal1ty/ImpactBar](https://github.com/Fatal1ty/ImpactBar) - A native macOS combat-log overlay for EVE Online turret hit quality and energy neutralizer tracking.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [Fatal1ty/WindowGaffer](https://github.com/Fatal1ty/WindowGaffer) - A macOS menu bar app for bringing specific windows to the front with global keyboard shortcuts and clickable on-screen labels
 - [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
@@ -1794,7 +1797,6 @@
 - [Arziel1992/Z-S-Overview-Customizer](https://github.com/Arziel1992/Z-S-Overview-Customizer) - This app is designed to be an out-of-game friendly and easy to use solution for the creation and editing of overview files for EVE Online.
 - [anonnerdfrenzy/survival-llm](https://github.com/anonnerdfrenzy/survival-llm) - A free AI assistant and survival library that runs on your own computer, with no internet needed. Shows the source of every answer.
 - [Homebrew/BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
-- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [heyman333/atelier-ui](https://github.com/heyman333/atelier-ui) - atelier-ui skills for ai agents
 - [jeffhajewski/latticedb](https://github.com/jeffhajewski/latticedb) - Embedded single-file knowledge graph database with vector search and full-text search for AI/RAG apps
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
@@ -2106,6 +2108,7 @@
 ## productivity 
 
 - [Fatal1ty/WindowGaffer](https://github.com/Fatal1ty/WindowGaffer) - A macOS menu bar app for bringing specific windows to the front with global keyboard shortcuts and clickable on-screen labels
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
@@ -2179,6 +2182,7 @@
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [inducer/pudb](https://github.com/inducer/pudb) - Full-screen console debugger for Python
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
+- [daijro/hrequests](https://github.com/daijro/hrequests) - 🚀 Web scraping for humans
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
 - [econchick/interrogate](https://github.com/econchick/interrogate) - Explain yourself! Interrogate a codebase for docstring coverage.
 - [InSyncWithFoo/pyright-langserver-for-pycharm](https://github.com/InSyncWithFoo/pyright-langserver-for-pycharm) - Pyright language server integration for PyCharm Professional
@@ -2741,10 +2745,12 @@
 
 ## swift 
 
+- [Fatal1ty/ImpactBar](https://github.com/Fatal1ty/ImpactBar) - A native macOS combat-log overlay for EVE Online turret hit quality and energy neutralizer tracking.
 - [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
 - [Fatal1ty/WindowGaffer](https://github.com/Fatal1ty/WindowGaffer) - A macOS menu bar app for bringing specific windows to the front with global keyboard shortcuts and clickable on-screen labels
 - [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
+- [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source.
 - [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
 - [tw93/MiaoYan](https://github.com/tw93/MiaoYan) - ⛷ A light, native Markdown notebook for Mac, iPhone and iPad.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
@@ -2762,6 +2768,7 @@
 
 ## swiftui 
 
+- [Fatal1ty/ImpactBar](https://github.com/Fatal1ty/ImpactBar) - A native macOS combat-log overlay for EVE Online turret hit quality and energy neutralizer tracking.
 - [alielsokary/CaskHub](https://github.com/alielsokary/CaskHub) - Native GUI for Homebrew Casks
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
